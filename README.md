@@ -1,1 +1,1 @@
-# rem-frontend
+# Remnawave new Admin Panel
