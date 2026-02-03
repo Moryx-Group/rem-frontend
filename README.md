@@ -1,1 +1,1 @@
-# Remnawave Admin Panel by [ Moryx ]
+# Remnawave Frontend by [ Moryx ]
