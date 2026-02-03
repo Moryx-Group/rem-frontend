@@ -1,1 +1,1 @@
-# Remnawave new Admin Panel
+# Remnawave Admin Panel by [ Moryx ]
